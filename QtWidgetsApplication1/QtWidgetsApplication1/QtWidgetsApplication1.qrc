@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/QtWidgetsApplication1">
+        <file>image/image.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>image/image.png</file>
+    </qresource>
+</RCC>
